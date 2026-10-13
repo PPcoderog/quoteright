@@ -1,0 +1,5 @@
+{
+  "currency": "USD",
+  "allowed_months": [1, 12],
+  "approval_threshold_percent": "10.00"
+}

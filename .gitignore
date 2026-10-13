@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.log
+.env
+.streamlit/secrets.toml
+.env.*
+demo/
+.DS_Store
+.playwright/
+docs/*.png
